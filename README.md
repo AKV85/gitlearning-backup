@@ -25,3 +25,6 @@ Learn commands:
 - git stash pop
 - git stash apply stash{<id>}
 - git stash drop
+- git remote add <name> <ur>
+- git remote -v 
+- git remote show <name>
