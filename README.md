@@ -12,4 +12,8 @@ git reset --hard HEAD~1
 git reset --mixed HEAD~1
 git revert <commit_id>
 .gitignore
+git checkout -b <new_branch_name>
+git merge --abort
+git diff
+git revert <id_commit>
 
