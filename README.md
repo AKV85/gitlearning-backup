@@ -16,4 +16,7 @@ Learn commands:
 - git merge --abort
 - git diff
 - git revert <id_commit>
-
+- git tag <tag_name>
+- git tag -list
+- git push --tags
+- git checkout <tag_name>
