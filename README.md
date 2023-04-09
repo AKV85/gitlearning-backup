@@ -20,3 +20,8 @@ Learn commands:
 - git tag -list
 - git push --tags
 - git checkout <tag_name>
+- git stash save "description"
+- git stash list
+- git stash pop
+- git stash apply stash{<id>}
+- git stash drop
