@@ -25,6 +25,9 @@ Learn commands:
 - git stash pop
 - git stash apply stash{<id>}
 - git stash drop
-- git remote add <name> <ur>
 - git remote -v 
 - git remote show <name>
+- git fetch
+- git remote remove origin
+- git remote add origin git@github.com:AKV85/gitlearning-backup.git
+- git push --set-upstream origin main
